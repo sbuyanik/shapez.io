@@ -1,14 +1,14 @@
 steamPage:
     shortText: shapez.io giderek karmaşıklaşan şekillerin sonsuz bir harita üzerinde
-        üretimi ve birleştirilmesi hakında bir oyundur.
-    discordLinkShort: Official Discord
+        üretimi ve birleştirilmesi hakkında bir oyundur.
+    discordLinkShort: Resmi Discord
     intro: >-
         Shapez.io geometrik şekillerin otomatik üretimi için fabrika
         kurabildiğiniz sakinleştirici bir oyundur.
 
         Seviye arttıkça şekiller daha karmaşık hale gelecek ve sonsuz haritada genişlemen gerekecek!
 
-        Ve bu yeterli değilmiş gibi, şekiller için talebi karşılamak için daha fazla üretim yapmalısın - buna tek yardımcı olacak şey ise genişleme!
+        Üstelik bu yeterli değilmiş gibi, şekil taleplerini karşılamak için daha fazla üretim yapmalısın - buna tek yardımcı olacak şey ise genişleme!
 
         En başta sadece şekilleri işlerken, sonradan onları boyaman gerekecek - bunun için boyaları çıkarmalı ve karıştırmalısın!
 
@@ -90,7 +90,7 @@ mainMenu:
     savegameUnnamed: İsimsiz
     puzzleMode: Yapboz Modu
     back: Geri
-    puzzleDlcText: Fabrikaları küçültmeyi ve verimli hale getirmekten keyif mi
+    puzzleDlcText: Fabrikaları küçültmek ve verimli hale getirmekten keyif mi
         alıyorsun? Şimdi Yapboz Paketini (DLC) Steam'de alarak keyfine keyif
         katabilirsin!
     puzzleDlcWishlist: İstek listene ekle!
@@ -216,7 +216,7 @@ dialogs:
         desc: Bu seviye için eğitim videosu mevcut! İzlemek ister misin?
     tutorialVideoAvailableForeignLanguage:
         title: Eğitim Mevcut
-        desc: Bu seviye için eğitim videosu mevcut, ama İngilizce dilinde. İzlemek ister
+        desc: Bu seviye için eğitim videosu mevcut ama İngilizce dilinde. İzlemek ister
             misin?
     editConstantProducer:
         title: Eşya Seç
@@ -238,7 +238,7 @@ dialogs:
         title: Kötü Yapboz
         desc: "Yapboz yüklenirken hata oluştu:"
     offlineMode:
-        title: Çevrİmdışı Modu
+        title: Çevrimdışı Modu
         desc: Sunuculara ulaşamadık, bu yüzden oyun çevrimdışı modda çalışmak zorunda.
             Lütfen aktif bir internet bağlantısı olduğundan emin olunuz.
     puzzleDownloadError:
@@ -1012,7 +1012,7 @@ settings:
             description: Yapıların bilgi kutularını sadece oranlarını göstecek şekilde
                 kısaltır. Aksi takdirde yapının açıklaması ve resmi gösterilir.
         disableCutDeleteWarnings:
-            title: Kes/Sil Uyarılarını Devre dışı Bırak
+            title: Kes/Sil Uyarılarını Devre Dışı Bırak
             description: 100 birimden fazla parçayı kesme/silme işlemlerinde beliren uyarı
                 pencerelerini devredışı bırakır.
         enableColorBlindHelper:
@@ -1041,7 +1041,7 @@ settings:
             title: Müzik Ayarı
             description: Müzik seviyesini ayarlar
         lowQualityMapResources:
-            title: Düşük Kalite Harİta Kaynakları
+            title: Düşük Kalite Harita Kaynakları
             description: Oyun performansını artırmak için haritada görünen kaynakların çizim
                 kalitesini sadeleştirir. Hatta daha net bir görüntü sağlar, bu
                 yüzden bir dene!
@@ -1075,7 +1075,7 @@ settings:
             title: Fare Kaydırarak Hareket Etme
             description: Fareyi ekranın köşelerine getirerek hareket ettirmeyi sağlar.
         zoomToCursor:
-            title: Farenİn Konumuna Yakınlaştırma
+            title: Farenin Konumuna Yakınlaştırma
             description: Eğer etkinleştirilirse zaman ekran yakınlaştırılması fare imlecinin
                 bulunduğu yere doğru olur. Etkinleştirilmezse yakınlaştırma
                 ekranın ortasına doğru olur.
@@ -1282,17 +1282,17 @@ puzzleMenu:
     noPuzzles: Bu kısımda yapboz yok.
     categories:
         levels: Seviyeler
-        new: Yenİ
-        top-rated: En İyİ Değerlendirilen
+        new: Yeni
+        top-rated: En İyi Değerlendirilen
         mine: Yapbozlarım
         easy: Kolay
         hard: Zor
         completed: Tamamlanan
         medium: Orta
-        official: Resmİ
+        official: Resmi
         trending: Bugün öne çıkan
         trending-weekly: Haftalık öne çıkan
-        categories: Kategorİler
+        categories: Kategoriler
         difficulties: Zorluğa göre
         account: Yapbozlarım
         search: Ara
